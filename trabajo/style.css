@@ -1,0 +1,59 @@
+.color{
+    background-color: rgb(107, 93, 85);
+    margin:auto;
+}
+.color{
+    width: 350px;
+    height: 735px;
+    padding: 40px;
+    border-radius: 24px;
+    background-size: cover;
+    box-shadow: 3px 1px black;
+}
+body , html{
+height: 100%;
+}
+
+.container{
+    padding: 90px;
+}
+.container input{
+    border-radius: 15px;
+    border:solid 1px black;
+    width: 250px;
+    height: 30px;
+
+}
+.container select{
+    border-radius: 15px;
+    border:solid 1px black;
+    width: 250px;
+    height: 30px;
+
+}
+
+.color button{
+border-radius: 15px;
+margin: 15px;
+border: solid 1px burlywood;
+height: 35px;
+width: 150px;
+background-color: rgb(38, 47, 44);
+color: white;
+}
+.cargo{
+    background-color: black;
+    color: black;
+}
+.cargos1{
+    width: 350px;
+    height: 535px;
+    padding: 40px;
+    border-radius: 24px;
+    background-size: cover;
+    box-shadow: 3px 1px black;
+}
+.cargos1{
+    background-color: rgb(34, 126, 95);
+    margin:auto;
+}
